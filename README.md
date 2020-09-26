@@ -1,2 +1,2 @@
-# LSP
-lsp Crud
+# php-native-crud
+menggunakan php 7
